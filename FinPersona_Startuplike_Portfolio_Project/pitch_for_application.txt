@@ -1,2 +1,0 @@
-Project pitch:
-Built an agentic document intelligence system reducing discovery time by 72 percent.
