@@ -18,5 +18,5 @@ Context Aware Response Generation
 - Persona based enterprise search
 
 ## Prototype Results
-- 72% faster information discovery
-- 87% retrieval relevance in benchmark tasks
+- 72% reduction in information discovery time in prototype tests
+- 87% top-k retrieval relevance on curated prototype evaluation tasks
